@@ -19,8 +19,16 @@ This dataset provides information about house listings in Lagos, Nigeria. It cov
 15. BQ: Indicates if the property has a boys' quarters (1 for Yes, 0 for No).
 
 
+**Libraries Used:**
+
+Numpy
+Pandas
+Matplotlib
+Seaborn
+
+
 ## **Usage**
-This dataset is used for various purposes including:
+This dataset serves multiple purposes, including:
 
 - Real estate market analysis in Lagos.
 - Predictive modeling for house prices in Lagos.
@@ -29,6 +37,12 @@ This dataset is used for various purposes including:
 
 # Disclaimer
 This dataset is a fabricated dataset created for educational purposes in a bootcamp.
+
+**Skills and Tool Used:**
+
+Python
+Data cleaning, Data Manipulation and Data Wrangling.
+Exploratory Data Analysis (Univariate, Bivariate, Multivariate Analysis, and Visualization).
 
 
 
