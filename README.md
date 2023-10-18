@@ -21,10 +21,10 @@ This dataset provides information about house listings in Lagos, Nigeria. It cov
 
 **Libraries Used:**
 
-Numpy
-Pandas
-Matplotlib
-Seaborn
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
 
 
 ## **Usage**
